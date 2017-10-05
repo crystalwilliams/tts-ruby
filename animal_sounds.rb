@@ -1,4 +1,7 @@
 # ** Case statements **
+# this is a comment from the future, you can't see me in the past!!!
+
+# mwahhhahahaahahahhahah
 
 puts "Which animal do you prefer?"
 animal = gets.chomp.downcase
